@@ -64,15 +64,15 @@ I enjoy building solutions, learning new technologies, and using AI tools to imp
 ## 📫 Contact Me
 
 <p align="left">
-  <a href="https://wa.me/506XXXXXXXX" target="_blank">
+  <a href="https://wa.me/50689872622" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
 
-  <a href="mailto:yourmail@gmail.com">
+  <a href="mailto:jaravillaloboscarlos531@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 
-  <a href="https://www.linkedin.com/in/yourlinkedin" target="_blank">
+  <a href="https://www.linkedin.com/in/carlosjaravillalobos/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
