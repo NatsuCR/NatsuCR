@@ -41,7 +41,12 @@ I enjoy building solutions, learning new technologies, and using AI tools to imp
 
 ### 🔹 Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=microsoft" />
+  - Microsoft 365  
+- Git & GitHub  
+- Visual Studio Code  
+- MySQL, PostgreSQL, SQL Server  
+- AI-powered tools (ChatGPT, Copilot) 
+  
 </p>
 
 - Microsoft 365  
@@ -67,5 +72,3 @@ I enjoy building solutions, learning new technologies, and using AI tools to imp
 
 ---
 
-## ⚡ Fun Fact
-I love technology, automation, and turning ideas into real solutions.
