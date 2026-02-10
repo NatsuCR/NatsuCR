@@ -31,7 +31,7 @@ I enjoy building solutions, learning new technologies, and using AI tools to imp
 - Tailwind CSS  
 - C++
 
-### 🔹 Professional
+### 🧑‍💻 Professional
 <p>
   <img src="https://skillicons.dev/icons?i=java,mysql,postgresql" />
 </p>
@@ -39,7 +39,7 @@ I enjoy building solutions, learning new technologies, and using AI tools to imp
 - Java  
 - SQL 
 
-### 🔹 Tools
+### 🔧 Tools
 
 <p align= "left">
   <img src="https://skillicons.dev/icons?i=microsoft,git,github,vscode,mysql,postgresql,windows" />
