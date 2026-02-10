@@ -37,7 +37,7 @@ I enjoy building solutions, learning new technologies, and using AI tools to imp
 </p>
 
 - Java  
-- SQL (Any SQL engine except SQLite)
+- SQL 
 
 ### 🔹 Tools
 <p>
