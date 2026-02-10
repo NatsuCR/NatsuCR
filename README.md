@@ -37,13 +37,14 @@ I enjoy building solutions, learning new technologies, and using AI tools to imp
 </p>
 
 - Java  
-- SQL
+- Microsoft SQL
+- PostgreSQL
 - Cisco
 
 ### 🔧 Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=windows,linux,git,github,vscode,mysql,postgresql" />
+  <img src="https://skillicons.dev/icons?i=windows,linux,git,github,vscode,mysql,postgresql,postman" />
 </p>
 
 <ul>
@@ -52,9 +53,11 @@ I enjoy building solutions, learning new technologies, and using AI tools to imp
   <li>Git & GitHub</li>
   <li>Visual Studio Code</li>
   <li>MySQL, PostgreSQL, SQL Server</li>
+  <li>Postman</li>
   <li>AI-powered tools (ChatGPT, Copilot, Claude, BlackBox)</li>
   <li>NetBeans</li>
   <li>Embarcadero (RAD Studio)</li>
+  
 </ul>
 
 ---
