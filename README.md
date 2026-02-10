@@ -41,11 +41,13 @@ I enjoy building solutions, learning new technologies, and using AI tools to imp
 
 ### 🔹 Tools
 <p>
-  - Microsoft 365  
+  
+- Microsoft 365  
 - Git & GitHub  
 - Visual Studio Code  
-- MySQL, PostgreSQL, SQL Server  
-- AI-powered tools (ChatGPT, Copilot) 
+- MySQL, PostgreSQL, SQL Server
+  <img src="https://www.google.com/imgres?q=AI&imgurl=https%3A%2F%2Fincubator.ucf.edu%2Fwp-content%2Fuploads%2F2023%2F07%2Fartificial-intelligence-new-technology-science-futuristic-abstract-human-brain-ai-technology-cpu-central-processor-unit-chipset-big-data-machine-learning-cyber-mind-domination-generative-ai-scaled-1-1500x1000.jpg&imgrefurl=https%3A%2F%2Fincubator.ucf.edu%2Fwhat-is-artificial-intelligence-ai-and-why-people-should-learn-about-it%2F&docid=4jEnd_yUBiw-_M&tbnid=1ATi8GjkqFf3RM&vet=12ahUKEwjX9c7Ehs6SAxX9TDABHZXJJMAQnPAOegQIExAB..i&w=1500&h=1000&hcb=2&ved=2ahUKEwjX9c7Ehs6SAxX9TDABHZXJJMAQnPAOegQIExAB"/>
+- AI-powered tools (ChatGPT, Copilot, Claude, BlackBox, etc) 
   
 </p>
 
