@@ -1,16 +1,71 @@
 ## Hi there 👋
 
-<!--
-**NatsuCR/NatsuCR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi 👋, I'm Carlos Jara</h1>
+<h3 align="center">Software Engineer | Java & SQL Specialist</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=NatsuCR&label=Profile%20views&color=0e75b6&style=flat" alt="NatsuCR" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+
+<p>
+I am a passionate Software Engineer with experience in technology-focused environments.
+I have worked in <strong>hardware and software sales</strong>, combining technical knowledge with strong communication skills.
+I enjoy building solutions, learning new technologies, and using AI tools to improve productivity and workflows.
+</p>
+
+---
+
+## 🧠 Tech Skills
+
+### 🔹 Intermediate
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,cpp" />
+</p>
+
+- HTML  
+- CSS  
+- Tailwind CSS  
+- C++
+
+### 🔹 Professional
+<p>
+  <img src="https://skillicons.dev/icons?i=java,mysql,postgresql" />
+</p>
+
+- Java  
+- SQL (Any SQL engine except SQLite)
+
+### 🔹 Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=microsoft" />
+</p>
+
+- Microsoft 365  
+- AI-powered tools
+
+---
+
+## 📫 Contact Me
+
+<p align="left">
+  <a href="https://wa.me/506XXXXXXXX" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+
+  <a href="mailto:yourmail@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+
+  <a href="https://www.linkedin.com/in/yourlinkedin" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## ⚡ Fun Fact
+I love technology, automation, and turning ideas into real solutions.
