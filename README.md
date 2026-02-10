@@ -41,7 +41,7 @@ I enjoy building solutions, learning new technologies, and using AI tools to imp
 
 ### 🔧 Tools
 
-<p align= "left">
+<p>
   <img src="https://skillicons.dev/icons?i=microsoft,git,github,vscode,mysql,postgresql,windows" />
 </p>
 
