@@ -56,11 +56,13 @@ I enjoy building solutions, learning new technologies, and using AI tools to imp
   <li>Embarcadero (RAD Studio)</li>
 </ul>
 
-
-- Microsoft 365  
-- AI-powered tools
-
 ---
+---
+
+### 👨‍🎓Studies
+
+<p>Diploma in Software Engineering (incomplete studies) until 2026</p>
+<p>Bachelor's Degree in Software Engineering (incomplete studies) Starting in 2027</p>
 
 ## 📫 Contact Me
 
