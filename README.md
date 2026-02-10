@@ -42,11 +42,12 @@ I enjoy building solutions, learning new technologies, and using AI tools to imp
 ### 🔧 Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,mysql,postgresql,windows,linux" />
+  <img src="https://skillicons.dev/icons?i=windows,linux,git,github,vscode,mysql,postgresql" />
 </p>
 
 <ul>
   <li>Microsoft 365</li>
+  <li>Linux</li>
   <li>Git & GitHub</li>
   <li>Visual Studio Code</li>
   <li>MySQL, PostgreSQL, SQL Server</li>
