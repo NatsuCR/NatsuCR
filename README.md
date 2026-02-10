@@ -33,11 +33,12 @@ I enjoy building solutions, learning new technologies, and using AI tools to imp
 
 ### 🧑‍💻 Professional
 <p>
-  <img src="https://skillicons.dev/icons?i=java,mysql,postgresql" />
+  <img src="https://skillicons.dev/icons?i=java,mysql,postgresql,cisco" />
 </p>
 
 - Java  
-- SQL 
+- SQL
+- Cisco
 
 ### 🔧 Tools
 
